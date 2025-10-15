@@ -1,0 +1,50 @@
+
+nav {
+      background-color: #0078f7; /* Azul de fondo */
+      padding: 15px;
+      text-align: center;
+    }
+
+    /* Estilos de los enlaces */
+    nav a {
+      color: white; /* Texto blanco */
+      text-decoration: none; /* Sin subrayado */
+      margin: 0 20px; /* Espaciado entre enlaces */
+      font-size: 18px;
+      font-family: Arial, sans-serif;
+      transition: color 0.3s;
+    }
+
+    /* Efecto hover */
+    nav a:hover {
+      color: #ffcc00; /* Amarillo al pasar el mouse */
+    }
+
+    .contenedor p{
+    background-color: rgb(173, 173, 200);
+    line-height: 21px;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-left: 30% !important;
+    width: 700px;
+ }
+
+ h1{
+    font-size: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    text-align: center !important;
+    color:rgb(18, 17, 17);
+ }
+
+ 
+img {
+  width: 350px;
+  height: auto;
+  border-radius: 15px;
+}
+
+table {
+  width: 95%;
+  margin: 0 auto;
+}
